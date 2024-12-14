@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(44, 42, 42);
+}
+
+#dov {
+    display: flex;
+    justify-content: center;
+}    
+
+#duv {
+    display: flex;
+    justify-content: center;
+}
